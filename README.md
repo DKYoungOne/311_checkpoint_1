@@ -68,11 +68,11 @@ Make sure that you are handling common use cases. For example, if we try to find
 
 ## POINTS
 
-* App starts (done for you)                           - 10 pts
-* Routes/Controllers structured appropriately         - 20 pts
-* Routes/Controllers correctly imported in index.js   - 10 pts
-* Can GET users all at once or by id                  - 10 pts
-* Can POST to create a new user                       - 10 pts
-* Can PUT to update a user                            - 10 pts
-* Can DELETE a user by its id                         - 10 pts
-* Error handling                                      - 20 pts
+* App starts (done for you)                           - 10 pts *
+* Routes/Controllers structured appropriately         - 20 pts *
+* Routes/Controllers correctly imported in index.js   - 10 pts *
+* Can GET users all at once or by id                  - 10 pts *
+* Can POST to create a new user                       - 10 pts *
+* Can PUT to update a user                            - 10 pts *
+* Can DELETE a user by its id                         - 10 pts *
+* Error handling                                      - 20 pts *
